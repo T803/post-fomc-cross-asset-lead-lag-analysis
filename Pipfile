@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy="*"
+pandas="*"
+matplotlib="*"
+scipy="*"
+statsmodels="*"
+seaborn="*"
+scikit-learn="*"
+fredapi="*"
+python-dotenv="*"
+yfinance="*"
+pandas-ta-classic="*"
+certifi="*"
+hmmlearn="*"
+torch="*"
+dukascopy-python="*"
+pyarrow="*"
+
+[dev-packages]
+pytest="*"
+ipykernel = "*"
+
+[requires]
+#python_version=">=3.10"
