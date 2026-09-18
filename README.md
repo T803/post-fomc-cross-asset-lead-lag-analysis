@@ -2,7 +2,7 @@ Author: Tania E. Kuoh
 Date: August 2026
 
 
-This repository contains all code files that were used to carry out my investigation of post FOMC cross-asset lead-lag relationships. The focus was on the equities (specifically the S&P 500) and FX (specifically USDJPY) but the different files/functions should be flexible enough to accommodate other types of analyses.
+This repository contains all code files that were used to carry out my investigation of post FOMC cross-asset lead-lag relationships. The focus was on equities (specifically the S&P 500) and FX (specifically USDJPY) but the different files/functions should be flexible enough to accommodate other types of analyses.
 
 ## Getting Started
 
